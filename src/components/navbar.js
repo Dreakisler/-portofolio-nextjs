@@ -22,6 +22,10 @@ Posts
 py-2 rounded-md transition-all duration-300"> 
 Contact 
 </Link> 
+<Link href="/Speech" className="text-gray-300 hover:bg-secondary hover:text-light px-3 
+py-2 rounded-md transition-all duration-300"> 
+Speech
+</Link>
 </div>
           
   
